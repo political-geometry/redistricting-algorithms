@@ -1,0 +1,7 @@
+In order to run the power diagram experiments performed in the 'Redistricting Algorithms' chapter, we used the code from the following paper:
+
+Vincent Cohen-Addad, Philip N Klein, and Neal E Young. Balanced centroidal power diagrams for redistricting. In Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, pages 389–396. ACM, 2018.
+
+This code can be found here: https://github.com/pnklein/district.
+
+A user wishing to replicate our experiments should download or clone this repository from GitHub and add the three files here ('iowa_experiment_test.py', 'read_10x10_grid.txt', and 'read_iowa_counties.txt') to the repository's main 'district' directory and then run the 'iowa_experiment_test.py' script from within the 'district' directory.
